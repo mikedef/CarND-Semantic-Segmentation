@@ -35,6 +35,7 @@ A FCN was used for semantic scene segmentation because it retains the spatial in
  ![alt text](/images/um_000000-48epoch.png)
  ![alt text](/images/uu_000095-48epoch.png)
 
+The models starts to correctly identify road pixels fairly well as training goes up. 
 
 ## Original Readme: 
 # Semantic Segmentation
