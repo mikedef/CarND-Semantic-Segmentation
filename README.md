@@ -14,10 +14,14 @@ A FCN was used for semantic scene segmentation because it retains the spatial in
  
  # Model Output
  Below are a random sample of the original test images and the output of the network at various training epochs.
- ### Original Images
+ ### Original Images:
  Random sample of the original training images
  ![alt text](/images/um_000000.png)
- ![alt text](/images/um_000095.png)
+ ![alt text](/images/uu_000095.png)
+ 
+ ## Model Output at 6 Epochs:
+ ![alt text](/images/um_000000-6epoch.png)
+ ![alt text](/images/uu_000095-6epoch.png)
 
 
 ## Original Readme: 
