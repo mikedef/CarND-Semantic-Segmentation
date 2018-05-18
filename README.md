@@ -1,4 +1,27 @@
 # Semantic Segmentation
+## Michael DeFilippo
+
+#### Please see my [project code](https://github.com/mikedef/CarND-Semantic-Segmentation) for any questions regarding implementation.
+---
+
+# Overview
+This repository contains all the code needed to complete the Semantic Segmentation project. The main goal of the project is to label the pixels of a road in images using a Fully Convolutional Network (FCN). The Kitti Road dataset was used for the training data. 
+
+A FCN was used for semantic scene segmentation because it retains the spatial information during training. This is helpful to identify objects in an image. The architecture used in the project was composed of three parts.
+ - Encoder: This was the pretrained VGG16 neural network
+ - 1X1 convolution
+ - Decoder: Transposed convolutions and skip connections
+ 
+ # Model Output
+ Below are a random sample of the original test images and the output of the network at various training epochs.
+ ### Original Images
+ Random sample of the original training images
+ ![alt text](/images/um_000000.png)
+ ![alt text](/images/um_000095.png)
+
+
+## Original Readme: 
+# Semantic Segmentation
 ### Introduction
 In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
