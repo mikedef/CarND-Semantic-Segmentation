@@ -22,6 +22,18 @@ A FCN was used for semantic scene segmentation because it retains the spatial in
  ## Model Output at 6 Epochs:
  ![alt text](/images/um_000000-6epoch.png)
  ![alt text](/images/uu_000095-6epoch.png)
+ 
+  ## Model Output at 12 Epochs:
+ ![alt text](/images/um_000000-12epoch.png)
+ ![alt text](/images/uu_000095-12epoch.png)
+ 
+  ## Model Output at 24 Epochs:
+ ![alt text](/images/um_000000-24epoch.png)
+ ![alt text](/images/uu_000095-24epoch.png)
+ 
+  ## Model Output at 48 Epochs:
+ ![alt text](/images/um_000000-48epoch.png)
+ ![alt text](/images/uu_000095-48epoch.png)
 
 
 ## Original Readme: 
